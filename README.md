@@ -1,0 +1,2 @@
+# boilerplate
+My webpack config
